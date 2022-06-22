@@ -1,8 +1,6 @@
 const { defineConfig } = require("cypress");
 
-module.exports = defineConfig({
-
-  projectId: "wjm21q",
+module.exports = defineConfig({ 
   defaultCommandTimeout: 5000,
   viewportWidth: 1920,
   viewportHeight: 1080,
@@ -10,6 +8,7 @@ module.exports = defineConfig({
  
   // Command timeout overridden for E2E tests
   e2e: {
+    projectId: "wjm21q",
     defaultCommandTimeout: 10000,
     baseUrl: "https://buger-eats-qa.vercel.app"
     //baseUrl: "https://buger-eats.vercel.app"
