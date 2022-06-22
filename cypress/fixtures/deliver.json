@@ -1,0 +1,47 @@
+{
+    "signup": {
+        "name": "Teste Lea",
+        "cpf": "00000014141",
+        "email": "Teste@hotmail.com",
+        "whatsapp": "39974155622",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto"
+    },
+    "cpf_inv": {
+        "name": "Teste Lea",
+        "cpf": "aa0sss14141",
+        "email": "Teste2@hotmail.com",
+        "whatsapp": "11999999998",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto"
+    },
+    "email_inv": {
+        "name": "Teste Lea",
+        "cpf": "00000014141",
+        "email": "Testehotmail.com",
+        "whatsapp": "39974155622",
+        "address": {
+            "postalcode": "04534011",
+            "street": "Rua Joaquim Floriano",
+            "number": "1000",
+            "details": "Ap 142",
+            "district": "Itaim Bibi",
+            "city_state": "São Paulo/SP"
+        },
+        "delivery_method": "Moto"
+    }
+}
